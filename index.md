@@ -42,9 +42,7 @@ Application Software Developer intern at LME team under P&C (CAN) Technology Gro
 
 
 [Link](url) 
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ### Support or Contact
